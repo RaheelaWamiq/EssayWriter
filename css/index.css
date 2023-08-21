@@ -516,7 +516,7 @@ footer{
     transform: translateY(-50%);
     width: 20px; /* Adjust this value based on your icon/image size */
     height: 20px; /* Adjust this value based on your icon/image size */
-    background-image: url('D:/EssayWriter/images/email-icon.svg'); /* Replace with your image URL */
+    background-image: url('/EssayWriter/images/email-icon.svg'); /* Replace with your image URL */
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -565,7 +565,7 @@ footer{
     transform: translateY(-50%);
     width: 20px; /* Adjust this value based on your icon/image size */
     height: 20px; /* Adjust this value based on your icon/image size */
-    background-image: url('D:/EssayWriter/images/pass-icon.svg'); /* Replace with your image URL */
+    background-image: url('/EssayWriter/images/pass-icon.svg'); /* Replace with your image URL */
     background-size: contain;
     background-repeat: no-repeat;
 }    
