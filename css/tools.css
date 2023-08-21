@@ -65,7 +65,7 @@
             transform: translateY(-50%);
             width: 20px; /* Adjust this value based on your icon/image size */
             height: 20px; /* Adjust this value based on your icon/image size */
-            background-image: url('D:/EssayWriter/images/tick-inactive.svg'); /* Replace with your image URL */
+            background-image: url('/EssayWriter/images/tick-inactive.svg'); /* Replace with your image URL */
             background-size: contain;
             background-repeat: no-repeat;
         }
@@ -92,7 +92,7 @@
             transform: translateY(-50%);
             width: 20px; /* Adjust this value based on your icon/image size */
             height: 20px; /* Adjust this value based on your icon/image size */
-            background-image: url('D:/EssayWriter/images/tick-active.svg'); /* Replace with your image URL */
+            background-image: url('/EssayWriter/images/tick-active.svg'); /* Replace with your image URL */
             background-size: contain;
             background-repeat: no-repeat;
         }
@@ -354,7 +354,7 @@
     height: 9px;
     margin-top: 3px;
     margin-left: -15px;
-    background-image: url('D:/EssayWriter/images/back-arrow.svg');
+    background-image: url('/EssayWriter/images/back-arrow.svg');
     
 }
 .re-gen-btn{
@@ -385,7 +385,7 @@ position: absolute;
     width: 22px;
     height: 22px;
     margin-left: 3.62px;
-    background-image: url('D:/EssayWriter/images/regenerate.svg');
+    background-image: url('/EssayWriter/images/regenerate.svg');
 }
 .gen-heading-container svg{
     margin-left: 13px;
@@ -485,7 +485,7 @@ position: absolute;
     content: '';
     width: 16px;
     height: 16px;
-    background: url('D:/EssayWriter/images/tick-mark.svg');
+    background: url('/EssayWriter/images/tick-mark.svg');
     background-size: contain;
     left: 38px;
 }
@@ -586,7 +586,7 @@ position: absolute;
     content: '';
     width: 16px;
     height: 16px;
-    background: url('D:/EssayWriter/images/tick-mark.svg');
+    background: url('/EssayWriter/images/tick-mark.svg');
     background-size: contain;
     left: 38px;
 }
